@@ -1,0 +1,12 @@
+
+job_title,company,location,job_type,skills,description
+Python Developer Intern,Tech Solutions,Bengaluru,Internship,"Python, SQL, FastAPI","Develop backend applications using Python and REST APIs"
+Machine Learning Intern,AI Innovations,Gurugram,Internship,"Python, Machine Learning, Scikit-learn","Build machine learning models and predictive systems"
+Data Analyst Intern,DataWorks,Chennai,Internship,"Python, SQL, Pandas, Power BI","Analyze business data and create dashboards"
+AI Engineer Intern,Future AI,Bengaluru,Internship,"Python, Deep Learning, NLP, LLM","Develop intelligent AI applications and language models"
+Cloud Engineer Intern,CloudTech,Hyderabad,Internship,"AWS, Docker, Python, Linux","Build and manage cloud infrastructure"
+Java Developer Intern,CodeWorks,Chennai,Internship,"Java, SQL, Spring Boot","Develop backend software applications"
+NLP Engineer Intern,Language AI,Gurugram,Internship,"Python, NLP, LLM, Transformers","Develop natural language processing applications"
+Data Scientist Intern,DataMind,Remote,Internship,"Python, Machine Learning, Pandas, NumPy","Analyze datasets and build predictive models"
+DevOps Intern,Cloud Systems,Bengaluru,Internship,"Docker, AWS, Jenkins, Git","Automate software deployment and cloud operations"
+Full Stack Developer Intern,WebTech,Chennai,Internship,"Python, JavaScript, React, SQL","Build frontend and backend web applications"
